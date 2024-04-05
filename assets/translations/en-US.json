@@ -1,0 +1,5 @@
+{
+  "hello": "Hi!",
+  "text1": "What is flutter?",
+  "text2" : "Flutter is an open-source UI software development kit created by Google. It can be used to develop cross platform applications from a single codebase for the web, Fuchsia, Android, iOS, Linux, macOS, and Windows. First described in 2015, Flutter was released in May 2017."
+}
