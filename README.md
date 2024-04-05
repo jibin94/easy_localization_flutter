@@ -10,11 +10,12 @@ To get started with easy_localization in your Flutter project, you typically nee
 - Add `easy_localization` to your pubspec.yaml file.
 
 - Create translation files in JSON or YAML format and organize them in the appropriate folder.
+  ```
    assets
   └── translations
   ├── {languageCode}.{ext}                  //only language code
   └── {languageCode}-{countryCode}.{ext}    //or full locale code
-
+  ```
 - Declare your assets localization directory in pubspec.yaml:
   flutter:
   assets:'
