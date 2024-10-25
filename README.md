@@ -29,10 +29,10 @@ To get started with easy_localization in your Flutter project, you typically nee
 
 For translation to work on iOS you need to add supported locales to ios/Runner/Info.plist
 `
-<key>CFBundleLocalizations</key>
-<array>
-<string>en</string>
-<string>hi</string>
+<key>CFBundleLocalizations</key><br />
+<array><br />
+<string>en</string><br />
+<string>hi</string><br />
 </array>`
 
 ### Key Differences between Internationalization and Localization
